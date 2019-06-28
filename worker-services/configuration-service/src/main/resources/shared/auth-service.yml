@@ -1,0 +1,8 @@
+spring:
+  redis:
+    host: localhost
+
+server:
+  servlet:
+    context-path: /uaa
+  port: 5000
